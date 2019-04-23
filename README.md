@@ -1,4 +1,16 @@
-# cs_learning_notes-S20190423-
-
-我在这里写了点东西
-test -
+<div>Dear all,
+<span>I took this really cool course
+</span></div>
+<span>on Coursera.org. I think it's
+my favorite course I've EVER taken!
+Here is the URL for it:
+</span>
+<a href="...">HTML, CSS and JS for Web Developers</a>
+<div>
+Does anyone know how I can give this course 6
+out of 5 stars?
+</div>
+<div>
+Thank you,
+-Yaakov.... I mean a random student! Definitely not Yaakov.
+</div>
